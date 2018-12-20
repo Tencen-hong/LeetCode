@@ -1,12 +1,12 @@
-|  ID  |                            Title                             | Difficulty |   C++   |   Python   |
-| :--: | :----------------------------------------------------------: | :--------: | :-----: | :--------: |
-|  1   |      [Two Sum](https://leetcode.com/problems/two-sum/)       |    Easy    | [c++]() | [Python]() |
-|  2   |                                                              |            |         |            |
-|  3   |                                                              |            |         |            |
-|  4   |                                                              |            |         |            |
-|  5   |                                                              |            |         |            |
-|  6   |                                                              |            |         |            |
-|  7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) |    Easy    |         |            |
-|      |                                                              |            |         |            |
-|      |                                                              |            |         |            |
+|  ID  |                            Title                             | Difficulty |                             C++                              |                            Python                            |
+| :--: | :----------------------------------------------------------: | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  1   |      [Two Sum](https://leetcode.com/problems/two-sum/)       |    Easy    | [C++](https://github.com/Tencen-hong/LeetCode/blob/master/C%2B%2B/1.%20Two%20Sum.cpp) | [Python](https://github.com/Tencen-hong/LeetCode/blob/master/Python/1.%20Two%20Sum.py) |
+|  2   |                                                              |            |                                                              |                                                              |
+|  3   |                                                              |            |                                                              |                                                              |
+|  4   |                                                              |            |                                                              |                                                              |
+|  5   |                                                              |            |                                                              |                                                              |
+|  6   |                                                              |            |                                                              |                                                              |
+|  7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) |    Easy    | [C++](https://github.com/Tencen-hong/LeetCode/blob/master/C%2B%2B/7.%20Reverse%20Integer.cpp) | [Python](https://github.com/Tencen-hong/LeetCode/blob/master/Python/7.%20Reverse%20Integer.py) |
+|      |                                                              |            |                                                              |                                                              |
+|      |                                                              |            |                                                              |                                                              |
 
