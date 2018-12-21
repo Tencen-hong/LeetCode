@@ -7,6 +7,6 @@
 |  5   |                                                              |            |                                                              |                                                              |
 |  6   |                                                              |            |                                                              |                                                              |
 |  7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) |    Easy    | [C++](https://github.com/Tencen-hong/LeetCode/blob/master/C%2B%2B/7.%20Reverse%20Integer.cpp) | [Python](https://github.com/Tencen-hong/LeetCode/blob/master/Python/7.%20Reverse%20Integer.py) |
-|      |                                                              |            |                                                              |                                                              |
-|      |                                                              |            |                                                              |                                                              |
+|  8   |                                                              |            |                                                              |                                                              |
+|  9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |    Easy    |                             C++                              |                            Python                            |
 
