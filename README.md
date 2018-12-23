@@ -9,4 +9,11 @@
 |  7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) |    Easy    | [12ms](https://github.com/Tencen-hong/LeetCode/blob/master/C%2B%2B/7.%20Reverse%20Integer.cpp) | [80ms](https://github.com/Tencen-hong/LeetCode/blob/master/Python/7.%20Reverse%20Integer.py) |
 |  8   |                                                              |            |                                                              |                                                              |
 |  9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |    Easy    | [124ms](https://github.com/Tencen-hong/LeetCode/blob/master/C%2B%2B/9.%20Palindrome%20Number.cpp) | [232ms](https://github.com/Tencen-hong/LeetCode/blob/master/Python/9.%20Palindrome%20Number.py) |
+|  10  |                                                              |            |                                                              |                                                              |
+|  11  |                                                              |            |                                                              |                                                              |
+|  12  |                                                              |            |                                                              |                                                              |
+|  13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) |    Easy    |                             52ms                             |                            120ms                             |
+|  14  |                                                              |            |                                                              |                                                              |
+
+
 
