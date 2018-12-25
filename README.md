@@ -13,7 +13,7 @@
 |  11  |                                                              |            |                                                              |                                                              |
 |  12  |                                                              |            |                                                              |                                                              |
 |  13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) |    Easy    | [52ms](https://github.com/Tencen-hong/LeetCode/blob/master/C%2B%2B/13.%20Roman%20to%20Integer.cpp) | [120ms](https://github.com/Tencen-hong/LeetCode/blob/master/Python/13.%20Roman%20to%20Integer.py) |
-|  14  |                                                              |            |                                                              |                                                              |
+|  14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |    Easy    |                             4ms                              |                             44ms                             |
 
 
 
