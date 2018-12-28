@@ -12,6 +12,7 @@
 |  13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) |    Easy    | [52ms](https://github.com/Tencen-hong/LeetCode/blob/master/C%2B%2B/13.%20Roman%20to%20Integer.cpp) | [120ms](https://github.com/Tencen-hong/LeetCode/blob/master/Python/13.%20Roman%20to%20Integer.py) |
 |  14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |    Easy    | [4ms](https://github.com/Tencen-hong/LeetCode/blob/master/C%2B%2B/14.%20Longest%20Common%20Prefix.cpp) | [44ms](https://github.com/Tencen-hong/LeetCode/blob/master/Python/14.%20Longest%20Common%20Prefix.py) |
 |  20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |    Easy    | [4ms](https://github.com/Tencen-hong/LeetCode/blob/master/C%2B%2B/20.%20Valid%20Parentheses.cpp) | [52ms](https://github.com/Tencen-hong/LeetCode/blob/master/Python/20.%20Valid%20Parentheses.py) |
+| 704  | [Binary Search](https://leetcode.com/problems/binary-search/) |    Easy    |                             44ms                             |                             76ms                             |
 | 740  | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) |   Medium   | [4ms](https://github.com/Tencen-hong/LeetCode/blob/master/C%2B%2B/740.%20Delete%20and%20Earn.cpp) | [48ms](https://github.com/Tencen-hong/LeetCode/blob/master/Python/740.%20Delete%20and%20Earn.py) |
 
 
