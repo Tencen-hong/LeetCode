@@ -26,6 +26,9 @@
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/) |    Easy    | [44ms](https://github.com/Tencen-hong/LeetCode/blob/master/C%2B%2B/704.%20Binary%20Search.cpp) | [76ms](https://github.com/Tencen-hong/LeetCode/blob/master/Python/704.%20Binary%20Search.py) |
 | 740  | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) |   Medium   | [4ms](https://github.com/Tencen-hong/LeetCode/blob/master/C%2B%2B/740.%20Delete%20and%20Earn.cpp) | [48ms](https://github.com/Tencen-hong/LeetCode/blob/master/Python/740.%20Delete%20and%20Earn.py) |
 | 771  | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) |    Easy    | [8ms](https://github.com/Tencen-hong/LeetCode/blob/master/C%2B%2B/771.%20Jewels%20and%20Stones.cpp) | [60ms](https://github.com/Tencen-hong/LeetCode/blob/master/Python/771.%20Jewels%20and%20Stones.py) |
+| 807  | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) |   Medium   |                             8ms                              |                                                              |
+| 929  | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) |    Easy    |                             32ms                             |                                                              |
+| 938  | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) |   Medium   |                            100ms                             |                                                              |
 | 958  | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) |   Medium   | [8ms](https://github.com/Tencen-hong/LeetCode/blob/master/C%2B%2B/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.cpp) | [68ms](https://github.com/Tencen-hong/LeetCode/blob/master/Python/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.py) |
 
 
