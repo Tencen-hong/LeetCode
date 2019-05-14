@@ -115,7 +115,7 @@
 | 983  | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) |   Medium   | [8ms](https://github.com/Tencen-hong/LeetCode/blob/master/C%2B%2B/983.%20Minimum%20Cost%20For%20Tickets.cpp) |                                                              |
 | 985  | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) |    Easy    | [168ms](https://github.com/Tencen-hong/LeetCode/blob/master/C%2B%2B/985.%20Sum%20of%20Even%20Numbers%20After%20Queries.cpp) |                                                              |
 | 986  | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) |   Medium   | [44ms](https://github.com/Tencen-hong/LeetCode/blob/master/C%2B%2B/986.%20Interval%20List%20Intersections.cpp) |                                                              |
-| 993  | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) |    Easy    |                                                              |                            99.96%                            |
+| 993  | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) |    Easy    |                                                              | [99.96%](https://github.com/Tencen-hong/LeetCode/blob/master/Python/993.%20Cousins%20in%20Binary%20Tree.py) |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) |    Easy    | [12ms](https://github.com/Tencen-hong/LeetCode/blob/master/C%2B%2B/1002.%20Find%20Common%20Characters.cpp) |                                                              |
 
 
