@@ -4,6 +4,7 @@
 #         self.val = x
 #         self.next = None
 
+
 class Solution:
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
         c1, c2 = '', ''
@@ -19,4 +20,4 @@ class Solution:
         for i in range(len(num)):
             c.next = ListNode(num[i])
             c = c.next
-        return dummy.next       
+        return dummy.next
