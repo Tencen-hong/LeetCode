@@ -194,9 +194,11 @@
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) |   Medium   | [12ms](https://github.com/honchen22/LeetCode/blob/master/C%2B%2B/647.%20Palindromic%20Substrings.cpp) |                                                              |
 | 648  | [Replace Words](https://leetcode.com/problems/replace-words/) |   Medium   |                                                              | [46.45%](https://github.com/honchen22/LeetCode/blob/master/Python/648.%20Replace%20Words.py) |
 | 650  | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) |   Medium   |                                                              | [46.28%](https://github.com/honchen22/LeetCode/blob/master/Python/650.%202%20Keys%20Keyboard.py) |
+| 652  | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) |   Medium   |                                                              |                            59.19%                            |
 | 653  | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) |    Easy    |                                                              | [59.29%](https://github.com/honchen22/LeetCode/blob/master/Python/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.py) |
 | 654  | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) |   Medium   |                                                              | [89.78%](https://github.com/honchen22/LeetCode/blob/master/Python/654.%20Maximum%20Binary%20Tree.py) |
 | 657  | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) |    Easy    | [16ms](https://github.com/honchen22/LeetCode/blob/master/C%2B%2B/657.%20Robot%20Return%20to%20Origin.cpp) |                                                              |
+| 658  | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) |   Medium   |                                                              |                            78.36%                            |
 | 669  | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) |    Easy    | [20ms](https://github.com/honchen22/LeetCode/blob/master/C%2B%2B/669.%20Trim%20a%20Binary%20Search%20Tree.cpp) |                                                              |
 | 674  | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) |    Easy    |                                                              | [92.44%](https://github.com/honchen22/LeetCode/blob/master/Python/674.%20Longest%20Continuous%20Increasing%20Subsequence.py) |
 | 680  | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) |    Easy    |                                                              | [80.27%](https://github.com/honchen22/LeetCode/blob/master/Python/680.%20Valid%20Palindrome%20II.py) |
@@ -284,6 +286,8 @@
 | 986  | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) |   Medium   | [44ms](https://github.com/honchen22/LeetCode/blob/master/C%2B%2B/986.%20Interval%20List%20Intersections.cpp) |                                                              |
 | 993  | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) |    Easy    |                                                              | [99.96%](https://github.com/honchen22/LeetCode/blob/master/Python/993.%20Cousins%20in%20Binary%20Tree.py) |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) |    Easy    | [12ms](https://github.com/honchen22/LeetCode/blob/master/C%2B%2B/1002.%20Find%20Common%20Characters.cpp) |                                                              |
+
+
 
 
 
