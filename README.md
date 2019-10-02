@@ -309,7 +309,7 @@
 | 986  | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) |   Medium   | [44ms](https://github.com/honchen22/LeetCode/blob/master/C%2B%2B/986.%20Interval%20List%20Intersections.cpp) |                                                              |
 | 993  | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) |    Easy    |                                                              | [99.96%](https://github.com/honchen22/LeetCode/blob/master/Python/993.%20Cousins%20in%20Binary%20Tree.py) |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) |    Easy    | [12ms](https://github.com/honchen22/LeetCode/blob/master/C%2B%2B/1002.%20Find%20Common%20Characters.cpp) |                                                              |
-| 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) |   Medium   |                                                              |                            61.82%                            |
+| 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) |   Medium   |                                                              | [61.82%](https://github.com/honchen22/LeetCode/blob/master/Python/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.py) |
 
 
 
