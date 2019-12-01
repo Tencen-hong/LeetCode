@@ -2,12 +2,12 @@
 
 
 
-|                            Title                             |             Difficulty             | Python |
-| :----------------------------------------------------------: | :--------------------------------: | :----: |
-| [5278. 分割回文串 III](https://leetcode-cn.com/problems/palindrome-partitioning-iii/) |  <font color = Red> Hard </font>   | 2088ms |
-| [5277. 统计全为 1 的正方形子矩阵](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/) | <font color = Gold> Medium </font> | 720ms  |
-| [5276. 不浪费原料的汉堡制作方案](https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients/) | <font color = Gold> Medium </font> |  40ms  |
-| [5275. 找出井字棋的获胜者](https://leetcode-cn.com/problems/find-winner-on-a-tic-tac-toe-game/) |  <font color = Green>Easy</font>   |  40ms  |
+|                            Title                             |             Difficulty             |                            Python                            |
+| :----------------------------------------------------------: | :--------------------------------: | :----------------------------------------------------------: |
+| [5278. 分割回文串 III](https://leetcode-cn.com/problems/palindrome-partitioning-iii/) |  <font color = Red> Hard </font>   | [2088ms](https://github.com/honchen22/LeetCode/blob/master/Python/5278.%20%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2%20III.py) |
+| [5277. 统计全为 1 的正方形子矩阵](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/) | <font color = Gold> Medium </font> | [720ms](https://github.com/honchen22/LeetCode/blob/master/Python/5277.%20%E7%BB%9F%E8%AE%A1%E5%85%A8%E4%B8%BA%201%20%E7%9A%84%E6%AD%A3%E6%96%B9%E5%BD%A2%E5%AD%90%E7%9F%A9%E9%98%B5.py) |
+| [5276. 不浪费原料的汉堡制作方案](https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients/) | <font color = Gold> Medium </font> | [40ms](https://github.com/honchen22/LeetCode/blob/master/Python/5276.%20%E4%B8%8D%E6%B5%AA%E8%B4%B9%E5%8E%9F%E6%96%99%E7%9A%84%E6%B1%89%E5%A0%A1%E5%88%B6%E4%BD%9C%E6%96%B9%E6%A1%88.py) |
+| [5275. 找出井字棋的获胜者](https://leetcode-cn.com/problems/find-winner-on-a-tic-tac-toe-game/) |  <font color = Green>Easy</font>   | [40ms](https://github.com/honchen22/LeetCode/blob/master/Python/5275.%20%E6%89%BE%E5%87%BA%E4%BA%95%E5%AD%97%E6%A3%8B%E7%9A%84%E8%8E%B7%E8%83%9C%E8%80%85.py) |
 
 
 
