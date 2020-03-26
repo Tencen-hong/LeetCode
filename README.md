@@ -7,11 +7,11 @@
 |                            Title                             | Difficulty |                            Python                            |
 | :----------------------------------------------------------: | :--------: | :----------------------------------------------------------: |
 | [836. 矩形重叠](https://leetcode-cn.com/problems/rectangle-overlap/) |    简单    | [70.00%](https://github.com/honchen22/LeetCode/blob/master/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/836.%20%E7%9F%A9%E5%BD%A2%E9%87%8D%E5%8F%A0.py) |
-| [365. 水壶问题](https://leetcode-cn.com/problems/water-and-jug-problem/) |    中等    |                            50.16%                            |
-| [945. 使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/) |    中等    |                            67.82%                            |
-| [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) |    简单    |                            35.13%                            |
-| [892. 三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/) |    简单    |                            26.46%                            |
-| [999. 车的可用捕获量](https://leetcode-cn.com/problems/available-captures-for-rook/) |    简单    |                            38.44%                            |
+| [365. 水壶问题](https://leetcode-cn.com/problems/water-and-jug-problem/) |    中等    | [50.16%](https://github.com/honchen22/LeetCode/blob/master/每日一题/365.%20水壶问题.py) |
+| [945. 使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/) |    中等    | [67.82%](https://github.com/honchen22/LeetCode/blob/master/每日一题/945.%20使数组唯一的最小增量.py) |
+| [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) |    简单    | [35.13%](https://github.com/honchen22/LeetCode/blob/master/每日一题/876.%20链表的中间结点.py) |
+| [892. 三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/) |    简单    | [26.46%](https://github.com/honchen22/LeetCode/blob/master/每日一题/892.%20三维形体的表面积.py) |
+| [999. 车的可用捕获量](https://leetcode-cn.com/problems/available-captures-for-rook/) |    简单    | [38.44%](https://github.com/honchen22/LeetCode/blob/master/每日一题/999.%20车的可用捕获量.py) |
 
 
 
