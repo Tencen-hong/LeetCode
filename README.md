@@ -10,6 +10,8 @@
 | [365. 水壶问题](https://leetcode-cn.com/problems/water-and-jug-problem/) |    中等    |                            50.16%                            |
 | [945. 使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/) |    中等    |                            67.82%                            |
 | [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) |    简单    |                            35.13%                            |
+| [892. 三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/) |    简单    |                            26.46%                            |
+| [999. 车的可用捕获量](https://leetcode-cn.com/problems/available-captures-for-rook/) |    简单    |                            38.44%                            |
 
 
 
@@ -23,9 +25,11 @@
 | [面试题 01.02. 判定是否互为字符重排](https://leetcode-cn.com/problems/check-permutation-lcci/) |    简单    | [35.29%](https://github.com/honchen22/LeetCode/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9D%A2%E8%AF%95%E9%87%91%E5%85%B8/%E9%9D%A2%E8%AF%95%E9%A2%98%2001.02.%20%E5%88%A4%E5%AE%9A%E6%98%AF%E5%90%A6%E4%BA%92%E4%B8%BA%E5%AD%97%E7%AC%A6%E9%87%8D%E6%8E%92.py) |                                                              |
 | [面试题 01.03. URL化](https://leetcode-cn.com/problems/string-to-url-lcci/) |    简单    |                                                              | [55.51%](https://github.com/honchen22/LeetCode/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9D%A2%E8%AF%95%E9%87%91%E5%85%B8/%E9%9D%A2%E8%AF%95%E9%A2%98%2001.03.%20URL%E5%8C%96.cpp) |
 | [面试题 01.04. 回文排列](https://leetcode-cn.com/problems/palindrome-permutation-lcci/) |    简单    | [85.69%](https://github.com/honchen22/LeetCode/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9D%A2%E8%AF%95%E9%87%91%E5%85%B8/%E9%9D%A2%E8%AF%95%E9%A2%98%2001.04.%20%E5%9B%9E%E6%96%87%E6%8E%92%E5%88%97.py) |                                                              |
-|                                                              |            |                                                              |                                                              |
+| [面试题 01.06. 字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/) |    简单    |                            49.72%                            |                                                              |
+| [面试题 01.07. 旋转矩阵](https://leetcode-cn.com/problems/rotate-matrix-lcci/) |    中等    |                            57.86%                            |                                                              |
 | [面试题 02.02. 返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/) |    简单    |                                                              |                                                              |
 | [面试题 04.02. 最小高度树](https://leetcode-cn.com/problems/minimum-height-tree-lcci/) |    简单    |                                                              |                                                              |
+|                                                              |            |                                                              |                                                              |
 
 
 
