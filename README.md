@@ -12,6 +12,7 @@
 | [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) |    简单    | [35.13%](https://github.com/honchen22/LeetCode/blob/master/每日一题/876.%20链表的中间结点.py) |
 | [892. 三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/) |    简单    | [26.46%](https://github.com/honchen22/LeetCode/blob/master/每日一题/892.%20三维形体的表面积.py) |
 | [999. 车的可用捕获量](https://leetcode-cn.com/problems/available-captures-for-rook/) |    简单    | [38.44%](https://github.com/honchen22/LeetCode/blob/master/每日一题/999.%20车的可用捕获量.py) |
+| [1111. 有效括号的嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) |    中等    |                            44.34%                            |
 
 
 
@@ -38,12 +39,15 @@
 
 ### **单周赛**
 
-|                            Title                             |             Difficulty             |                            Python                            |
-| :----------------------------------------------------------: | :--------------------------------: | :----------------------------------------------------------: |
-| [5278. 分割回文串 III](https://leetcode-cn.com/problems/palindrome-partitioning-iii/) |  <font color = Red> Hard </font>   | [2088ms](https://github.com/honchen22/LeetCode/blob/master/Python/5278.%20%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2%20III.py) |
-| [5277. 统计全为 1 的正方形子矩阵](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/) | <font color = Gold> Medium </font> | [720ms](https://github.com/honchen22/LeetCode/blob/master/Python/5277.%20%E7%BB%9F%E8%AE%A1%E5%85%A8%E4%B8%BA%201%20%E7%9A%84%E6%AD%A3%E6%96%B9%E5%BD%A2%E5%AD%90%E7%9F%A9%E9%98%B5.py) |
-| [5276. 不浪费原料的汉堡制作方案](https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients/) | <font color = Gold> Medium </font> | [40ms](https://github.com/honchen22/LeetCode/blob/master/Python/5276.%20%E4%B8%8D%E6%B5%AA%E8%B4%B9%E5%8E%9F%E6%96%99%E7%9A%84%E6%B1%89%E5%A0%A1%E5%88%B6%E4%BD%9C%E6%96%B9%E6%A1%88.py) |
-| [5275. 找出井字棋的获胜者](https://leetcode-cn.com/problems/find-winner-on-a-tic-tac-toe-game/) |  <font color = Green>Easy</font>   | [40ms](https://github.com/honchen22/LeetCode/blob/master/Python/5275.%20%E6%89%BE%E5%87%BA%E4%BA%95%E5%AD%97%E6%A3%8B%E7%9A%84%E8%8E%B7%E8%83%9C%E8%80%85.py) |
+|                            Title                             | Difficulty |                            Python                            |
+| :----------------------------------------------------------: | :--------: | :----------------------------------------------------------: |
+| [5278. 分割回文串 III](https://leetcode-cn.com/problems/palindrome-partitioning-iii/) |    困难    | [2088ms](https://github.com/honchen22/LeetCode/blob/master/Python/5278.%20%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2%20III.py) |
+| [5277. 统计全为 1 的正方形子矩阵](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/) |    中等    | [720ms](https://github.com/honchen22/LeetCode/blob/master/Python/5277.%20%E7%BB%9F%E8%AE%A1%E5%85%A8%E4%B8%BA%201%20%E7%9A%84%E6%AD%A3%E6%96%B9%E5%BD%A2%E5%AD%90%E7%9F%A9%E9%98%B5.py) |
+| [5276. 不浪费原料的汉堡制作方案](https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients/) |    中等    | [40ms](https://github.com/honchen22/LeetCode/blob/master/Python/5276.%20%E4%B8%8D%E6%B5%AA%E8%B4%B9%E5%8E%9F%E6%96%99%E7%9A%84%E6%B1%89%E5%A0%A1%E5%88%B6%E4%BD%9C%E6%96%B9%E6%A1%88.py) |
+| [5275. 找出井字棋的获胜者](https://leetcode-cn.com/problems/find-winner-on-a-tic-tac-toe-game/) |    简单    | [40ms](https://github.com/honchen22/LeetCode/blob/master/Python/5275.%20%E6%89%BE%E5%87%BA%E4%BA%95%E5%AD%97%E6%A3%8B%E7%9A%84%E8%8E%B7%E8%83%9C%E8%80%85.py) |
+| [5368. 找出数组中的幸运数](https://leetcode-cn.com/problems/find-lucky-integer-in-an-array/) |    简单    |                             44ms                             |
+| [5369. 统计作战单位数](https://leetcode-cn.com/problems/count-number-of-teams/) |    中等    |                            2044ms                            |
+| [5370. 设计地铁系统](https://leetcode-cn.com/problems/design-underground-system/) |    中等    |                            260ms                             |
 
 
 
