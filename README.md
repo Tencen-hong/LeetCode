@@ -50,6 +50,9 @@
 | [5368. 找出数组中的幸运数](https://leetcode-cn.com/problems/find-lucky-integer-in-an-array/) |    简单    |  44ms  |
 | [5369. 统计作战单位数](https://leetcode-cn.com/problems/count-number-of-teams/) |    中等    | 2044ms |
 | [5370. 设计地铁系统](https://leetcode-cn.com/problems/design-underground-system/) |    中等    | 260ms  |
+| [5376. 非递增顺序的最小子序列](https://leetcode-cn.com/problems/minimum-subsequence-in-non-increasing-order/) |    简单    |  56ms  |
+| [5377. 将二进制表示减到 1 的步骤数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) |    中等    | 268ms  |
+| [5195. 最长快乐字符串](https://leetcode-cn.com/problems/longest-happy-string/) |    中等    |  48ms  |
 
 
 
