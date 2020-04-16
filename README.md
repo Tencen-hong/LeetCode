@@ -15,6 +15,7 @@
 | [1111. 有效括号的嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) |    中等    | 44.34% |
 | [289. 生命游戏](https://leetcode-cn.com/problems/game-of-life/) |    中等    | 60.76% |
 | [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) |    中等    | 21.05% |
+| [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/) |    中等    | 36.39% |
 
 
 
