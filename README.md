@@ -56,6 +56,9 @@
 | [5376. 非递增顺序的最小子序列](https://leetcode-cn.com/problems/minimum-subsequence-in-non-increasing-order/) |    简单    |  56ms  |
 | [5377. 将二进制表示减到 1 的步骤数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) |    中等    | 268ms  |
 | [5195. 最长快乐字符串](https://leetcode-cn.com/problems/longest-happy-string/) |    中等    |  48ms  |
+| [5388. 重新格式化字符串](https://leetcode-cn.com/problems/reformat-the-string/) |    简单    |  52ms  |
+| [5389. 点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant/) |    中等    | 120ms  |
+| [5390. 数青蛙](https://leetcode-cn.com/problems/minimum-number-of-frogs-croaking/) |    中等    | 240ms  |
 
 
 
