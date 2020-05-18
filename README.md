@@ -59,6 +59,9 @@
 | [5388. 重新格式化字符串](https://leetcode-cn.com/problems/reformat-the-string/) |    简单    |  52ms  |
 | [5389. 点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant/) |    中等    | 120ms  |
 | [5390. 数青蛙](https://leetcode-cn.com/problems/minimum-number-of-frogs-croaking/) |    中等    | 240ms  |
+| [5412. 在既定时间做作业的学生人数](https://leetcode-cn.com/problems/number-of-students-doing-homework-at-a-given-time/) |    简单    |  32ms  |
+| [5413. 重新排列句子中的单词](https://leetcode-cn.com/problems/rearrange-words-in-a-sentence/) |    中等    |  48ms  |
+| [5414. 收藏清单](https://leetcode-cn.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) |    中等    | 108ms  |
 
 
 
