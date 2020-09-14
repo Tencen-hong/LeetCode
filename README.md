@@ -6,6 +6,7 @@
 
 |                            Title                             | Difficulty | Python |   C++   |
 | :----------------------------------------------------------: | :--------: | :----: | :-----: |
+| [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) |    中等    | 8.33%  | 100.00% |
 | [79. 单词搜索](https://leetcode-cn.com/problems/word-search/) |    中等    | 55.22% |         |
 | [637. 二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) |    简单    | 50.00% | 86.96%  |
 | [216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) |    中等    | 74.00% | 100.00% |
