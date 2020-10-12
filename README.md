@@ -6,6 +6,7 @@
 
 |                            Title                             | Difficulty | Python |   C++   |
 | :----------------------------------------------------------: | :--------: | :----: | :-----: |
+| [530. 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/) |    简单    | 88.32% |         |
 | [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/) |    简单    | 78.20% |         |
 | [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) |    中等    | 97.24% |         |
 |    [18. 四数之和](https://leetcode-cn.com/problems/4sum/)    |    中等    | 37.31% |         |
